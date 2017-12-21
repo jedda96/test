@@ -1,0 +1,19 @@
+<html>
+<link rel="stylesheet" type="text/css" href="styles.css" />
+<div class="navbar">
+  <a href="index.htm">Home</a>
+  <a href="video.htm">Video</a>
+  <a href="#contact">Contact</a>
+</div>
+
+<div class="main">
+  
+</div>
+<body>
+
+<h1>Video</h1>
+<h3>Small blurb describing video</h3>
+<embed src="example.mpeg" autostart="false" height="30" width="144" />
+
+</body>
+</html>
